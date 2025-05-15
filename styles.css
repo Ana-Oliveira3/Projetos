@@ -189,7 +189,7 @@ body{
     }
 
     img{
-        width: 500px;
+        width: 360px;
     }
 
     iframe{
@@ -213,6 +213,28 @@ body{
     img{
         width: 500px;
         height: 500px;
+    }
+
+    iframe{
+        width: 500px;
+        height: 300px;
+        float: right;
+        margin-top: -350px;
+    }
+}
+
+#jogoaventura{
+    h2{
+        float: right;
+        margin-right: 530px;
+        font-size: 20px;
+        width: 450px;
+        margin-top: 50px;
+        color: floralwhite;
+    }
+
+    img{
+        width: 360px;
     }
 
     iframe{
